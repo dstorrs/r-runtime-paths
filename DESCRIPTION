@@ -1,0 +1,11 @@
+Package: RuntimePaths
+Title: Find Filepaths Relative to Current File
+Version: 0.0.0.9000
+Authors@R: 
+    person("David", "Storrs", , "david.storrs@gmail.com", role = c("aut", "cre"))
+Description: Create filepaths relative to the running script instead of relying on the current working directory.
+License: `use_mit_license()`
+Encoding: UTF-8
+Roxygen: list(markdown = TRUE)
+RoxygenNote: 7.2.3
+Depends: R (>= 4.2.2)
